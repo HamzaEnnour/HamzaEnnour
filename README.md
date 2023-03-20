@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ennourhamza@gmail.com**
 
-- 📄 Know about my experiences [https://hamzaennour.live](hamzaennour.live)
+- 📄 Know about my experiences [hamzaennour.live](https://hamzaennour.live)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
