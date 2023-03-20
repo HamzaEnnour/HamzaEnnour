@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **hamza.ennour@esprit.tn**
+- 📫 How to reach me **ennourhamza@gmail.com**
 
-- 📄 Know about my experiences [hamzaennour.live](hamzaennour.live)
+- 📄 Know about my experiences [https://hamzaennour.live](hamzaennour.live)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hamza-ennour-b348311b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza-ennour-b348311b8/" height="30" width="40" /></a>
-<a href="/hamzaennour.live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="hamzaennour.me" height="30" width="40" /></a>
+<a href="https://hamzaennour.live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="hamzaennour.me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
